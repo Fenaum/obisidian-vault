@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "381828644977ad75",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d6d14bf29dd37a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60a30d72f16cef9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c06e1ad4c0dd864a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1609659173f3bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Variable and Data Types/Variables and Data Types.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables and Data Types"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e500ab00b9377d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33897083e868b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cdfa07c166c6df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f9ab086dd768783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a77a475b741f4c97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "fb6eef72a4587681",
+    "type": "split",
+    "children": [
+      {
+        "id": "998697e50e4cdaec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09813dc1b2a255b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Notes/Functional Programming Constructs.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Functional Programming Constructs"
+            }
+          },
+          {
+            "id": "44a17021cc1caa9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Notes/Functional Programming Constructs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Functional Programming Constructs"
+            }
+          },
+          {
+            "id": "3f4f01b175313ccb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2de523da55f6262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networks/Layer 3 - Network.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Layer 3 - Network"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1609659173f3bfe",
+  "lastOpenFiles": [
+    "Tags/language-basics.md",
+    "Main Notes/Overview.md",
+    "Main Notes/Data Transformation & Manipulation/Loops/Loops.md",
+    "Main Notes/Data Transformation & Manipulation/Loops/For Loop.md",
+    "Main Notes/Data Transformation & Manipulation/Loops/Control Statement.md",
+    "Main Notes/Programming Paradigms/Declarative Programming.md",
+    "Main Notes/Programming Paradigms/Procedural Programming.md",
+    "Main Notes/Programming Paradigms/Event-Driven Programming.md",
+    "Main Notes/Programming Paradigms/Imperative Programming.md",
+    "Main Notes/Programming Concepts/Error and Exception Handling.md",
+    "Main Notes/Programming Paradigms/Scripting.md",
+    "Tags/datatypes.md",
+    "Main Notes/Programming Paradigms/Object-Oriented Programming.md",
+    "Main Notes/Programming Paradigms/Functional Programming.md",
+    "Main Notes/Programming Paradigms/File IO Scripts.md",
+    "Main Notes/Programming Paradigms/Classes and Objects.md",
+    "Main Notes/Programming Paradigms/Inheritance.md",
+    "Main Notes/Programming Paradigms/Data Processing Scripts.md",
+    "Main Notes/Programming Paradigms/Web Automation and API Interaction Scripts.md",
+    "Main Notes/Programming Paradigms/Task Scheduling Scripts.md",
+    "File I/File IO.md",
+    "File I",
+    "Main Notes/Programming Paradigms/Side Effects.md",
+    "Main Notes/Programming Paradigms/Execution Order.md",
+    "Main Notes/Programming Paradigms/Programming Paradigms.md",
+    "Main Notes/Programming Paradigms/Automation.md",
+    "Main Notes/Programming Concepts/Asynchronous Programming.md",
+    "z-notes",
+    "Main Notes/Programming Paradigms",
+    "Untitled.canvas",
+    "Main Notes/Programming Concepts",
+    "Main Notes/Data Transformation & Manipulation",
+    "Main Notes/Syntax",
+    "Main Notes/Variable and Data Types",
+    "Main Notes/Function/Methods",
+    "Main Notes/Function",
+    "Main Notes/Data Transformation & Manipulation/Loops",
+    "Public/Images/GetImage (2).png",
+    "Public/Images/GetImage (1).png"
+  ]
+}

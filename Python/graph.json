@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Main Notes/Variable and Data Types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Function/Methods\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Function\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6063574
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Data Transformation & Manipulation/Loops\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Data Transformation & Manipulation\"  D",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Programming Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Main Notes/Programming Paradigms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048401
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 0.855655924479167,
+  "lineSizeMultiplier": 0.633943684895833,
+  "collapse-forces": false,
+  "centerStrength": 0.250895182291667,
+  "repelStrength": 12.4886067708333,
+  "linkStrength": 0.940958658854167,
+  "linkDistance": 333,
+  "scale": 0.24064011326103898,
+  "close": true
+}
